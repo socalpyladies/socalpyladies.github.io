@@ -7,7 +7,7 @@ categories: blog update
 
 SoCal Pyladies is the umbrella over all southern California Pyladies chapters.
 
-If you're an organizer of any Python even for women in the area, you are welcome to add posts to our blog.
+If you're an organizer of any Python event for women in the area, you are welcome to add posts to our blog.
 
 # How to Add a Blog Post
 
