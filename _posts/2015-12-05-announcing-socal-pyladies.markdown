@@ -20,8 +20,10 @@ Here's how to add a code snippet to the blog:
 {% highlight python %}
 def print_hi(name)
     print("Hi, {}!".format(name))
+
+# prints 'Hi, Carol'
 print_hi('Carol')
-#=> prints 'Hi, Carol' to STDOUT.
+
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
