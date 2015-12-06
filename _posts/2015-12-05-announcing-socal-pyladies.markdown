@@ -7,7 +7,16 @@ categories: blog update
 
 SoCal Pyladies is the umbrella over all southern California Pyladies chapters.
 
-If you're an organizer of any Python event for women in the area, you are welcome to add posts to our blog.
+# Who Can Add Posts
+
+If you're an organizer of any Python event for girls and/or women in the area, you are welcome to add posts to our blog.
+
+This includes but is not limited to:
+
+* Pyladies event organizers
+* Django Girls event organizers
+* Meetup organizers who are planning Python programming outreach events specifically for girls/women
+* Teachers/parents planning a girls' Python class
 
 # How to Add a Blog Post
 
