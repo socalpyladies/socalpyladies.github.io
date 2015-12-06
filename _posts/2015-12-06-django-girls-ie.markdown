@@ -25,6 +25,11 @@ During lunch, we had a talk inspiring attendees to continue their journey and bu
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Great lunchtime talk from <a href="https://twitter.com/audreyr">@audreyr</a> and <a href="https://twitter.com/pydanny">@pydanny</a> at <a href="https://twitter.com/DjangoGirlsIE">@DjangoGirlsIE</a> 😃👍🙌🎈🎈 <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="https://t.co/QUO9WPEAxV">pic.twitter.com/QUO9WPEAxV</a></p>&mdash; Trey Hunner (@treyhunner) <a href="https://twitter.com/treyhunner/status/673244622873735168">December 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+The high coach-to-student ratio meant that students didn't get stuck on any one issue for too long.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Special thanks to all the amazing members of the <a href="https://twitter.com/DjangoGirlsIE">@DjangoGirlsIE</a> coaching team <a href="https://t.co/fWU5c5C27z">pic.twitter.com/fWU5c5C27z</a></p>&mdash; InlandEmpirePyladies (@IEPyladies) <a href="https://twitter.com/IEPyladies/status/673252351667363840">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 For more photos, see:
 
 * [@DjangoGirlsIE on Twitter](https://twitter.com/djangogirlsie)
