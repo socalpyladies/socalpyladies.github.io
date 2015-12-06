@@ -10,9 +10,24 @@ The first Django Girls workshop in Southern California was Django Girls Inland E
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/DjangoGirls?src=hash">#DjangoGirls</a> family 🎈✨💗 <a href="https://t.co/GwjFiHwAbj">pic.twitter.com/GwjFiHwAbj</a></p>&mdash; Django Girls IE (@DjangoGirlsIE) <a href="https://twitter.com/DjangoGirlsIE/status/673256419303358464">December 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+For the workshop, Cameron Lucky created a giant poster introducing each coach and showing which operating systems the coach could help attendees with.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> coaches know about Windows, Mac, and Linux <a href="https://t.co/dRMbkg8CFl">pic.twitter.com/dRMbkg8CFl</a></p>&mdash; Django Girls IE (@DjangoGirlsIE) <a href="https://twitter.com/DjangoGirlsIE/status/673227520225882113">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Teams were named after influential women programmers, both from history and from the contemporary world.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Team Leah Culver and Team Sara Soueidan powering through the <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> tutorial 🔋💬🎨💻😁 <a href="https://t.co/OfM7Snhb6x">pic.twitter.com/OfM7Snhb6x</a></p>&mdash; Django Girls IE (@DjangoGirlsIE) <a href="https://twitter.com/DjangoGirlsIE/status/673226089058066432">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+During lunch, we had a talk inspiring attendees to continue their journey and build the next Instagram or Pinterest.
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Great lunchtime talk from <a href="https://twitter.com/audreyr">@audreyr</a> and <a href="https://twitter.com/pydanny">@pydanny</a> at <a href="https://twitter.com/DjangoGirlsIE">@DjangoGirlsIE</a> 😃👍🙌🎈🎈 <a href="https://twitter.com/hashtag/djangogirls?src=hash">#djangogirls</a> <a href="https://t.co/QUO9WPEAxV">pic.twitter.com/QUO9WPEAxV</a></p>&mdash; Trey Hunner (@treyhunner) <a href="https://twitter.com/treyhunner/status/673244622873735168">December 5, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 For more photos, see:
 
-* https://twitter.com/djangogirlsie
-* https://twitter.com/iepyladies
+* [@DjangoGirlsIE on Twitter](https://twitter.com/djangogirlsie)
+* [@IEPyladies on Twitter](https://twitter.com/iepyladies)
 
 Do you have photos? Writeups about the workshop? Let us know and we'll add your link here.
