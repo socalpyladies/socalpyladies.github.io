@@ -37,3 +37,7 @@ print_hi('Carol')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
+
+## Still Need Help?
+
+[File an issue here](https://github.com/socalpyladies/socalpyladies.github.io/issues/new) and we'll help you get started.
