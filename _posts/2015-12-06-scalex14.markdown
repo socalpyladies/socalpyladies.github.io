@@ -18,7 +18,7 @@ Pasadena, CA 91101
 For more information about SCaLE please see their [website](https://www.socallinuxexpo.org/scale/14x).
 
 Would you like to volunteer for SCaLE x14? 
-If you already have tickets for SCaLE please volunteer for as many hours as you would like to volunteer.
-If you would like free admission into SCaLE for volunteering at our booth please sign up for at least four hours. 
+⋅⋅⋅If you already have tickets for SCaLE please volunteer for as many hours as you would like to volunteer.
+⋅⋅⋅If you would like free admission into SCaLE for volunteering at our booth please sign up for at least four hours. 
 
 If you would like to volunteer to be at the PyLadies booth at SCaLE please fill out this [form](https://docs.google.com/forms/d/1_nNw4Gkcm1jZOtOl8DVsQ2lFKLbzT5akqR18QyWxCSg/viewform?usp=send_form).
