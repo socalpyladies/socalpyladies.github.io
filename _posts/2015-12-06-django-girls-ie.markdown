@@ -30,9 +30,24 @@ The high coach-to-student ratio meant that students didn't get stuck on any one 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Special thanks to all the amazing members of the <a href="https://twitter.com/DjangoGirlsIE">@DjangoGirlsIE</a> coaching team <a href="https://t.co/fWU5c5C27z">pic.twitter.com/fWU5c5C27z</a></p>&mdash; InlandEmpirePyladies (@IEPyladies) <a href="https://twitter.com/IEPyladies/status/673252351667363840">December 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+We would like to thank our coaches, students, organizers, and sponsors. This event couldn't have been possible without all of you.
+
+We were sponsored by Cars.com, Python Software Foundation, Eastridge Workforce Solutions, Two Scoops Academy, Truthful Technology, and JetBrains.
+
 For more photos, see:
 
 * [@DjangoGirlsIE on Twitter](https://twitter.com/djangogirlsie)
 * [@IEPyladies on Twitter](https://twitter.com/iepyladies)
 
 Do you have photos? Writeups about the workshop? Let us know and we'll add your link here.
+
+
+Thanks again to our sponsors!
+
+[<img src="/img/dgie-logos/nc.svg" width="40%" alt="NewCars.com">](http://www.newcars.com/)
+[<img src="/img/dgie-logos/psf.svg" width="40%" alt="Python Software Foundation">](https://www.python.org/psf-landing/)
+
+![Eastridge](/img/dgie-logos/eastridge.png)
+![Two Scoops Academy](/img/dgie-logos/tsa.png)
+![Truthful Technology, LLC](/img/dgie-logos/tt.png)
+![PyCharm](/img/dgie-logos/pycharm.png)
